@@ -1,1 +1,3 @@
+from master
 This is a second file.
+end master

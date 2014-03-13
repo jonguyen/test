@@ -1,4 +1,6 @@
+from master
 testbranch master new
 testbranch3 new
 commit1
 commit2
+endm master
