@@ -1,1 +1,3 @@
+branch2 begin
 testbranch2 new
+branch2 end
