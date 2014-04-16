@@ -1,1 +1,1 @@
-Support \n in the commit message.
+Support \n in the commit message.Test2
