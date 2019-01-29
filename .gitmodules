@@ -1,0 +1,3 @@
+[submodule "backbone-tutorial"]
+	path = backbone-tutorial
+	url = https://github.com/jonguyen/backbone-tutorial.git
